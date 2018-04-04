@@ -9,3 +9,4 @@ django-guardian
 django-oscar
 django-shop
 django-analytical
+django-app-metrics
