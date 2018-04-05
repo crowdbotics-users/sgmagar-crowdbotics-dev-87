@@ -7,4 +7,3 @@ whitenoise==3.3.0
 django-guardian
 django-shop
 django-analytical
-django-app-metrics
